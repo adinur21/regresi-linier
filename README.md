@@ -3,7 +3,7 @@ Memprediksi jumlah pendaftar PPDB pada SMK Telkom Malang menggunakan metode regr
 
 Author : Adi Nurrachman
 
-Universitas Islam Negeri Maulana Malik Ibrahim Malang
+Magister Teknik Informatika - Universitas Islam Negeri Maulana Malik Ibrahim Malang
 
 Dosen : Gunawan BudiPrasetyo,ST,MMT,PhD
 
